@@ -26,3 +26,4 @@ ETUDIANT *etudiants;
 };
 typedef struct classe
 CLASSE;
+//first try
